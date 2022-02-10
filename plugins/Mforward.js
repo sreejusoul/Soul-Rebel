@@ -1,4 +1,4 @@
-const Asena = require("../Utilis/events");
+const Abuser = require("../Utilis/events");
 
 const { forwardOrBroadCast } = require("../Utilis/groupmute");
 
@@ -12,7 +12,7 @@ const url1 = 'https://i.imgur.com/bZ7eWLd.jpg'
 
 const url2 = 'https://i.imgur.com/bZ7eWLd.jpg'
 
-Asena.addCommand(
+Abuser.addCommand(
 
     { pattern: 'az ?(.*)', fromMe: true, desc: "Forward replied msg." },
 
