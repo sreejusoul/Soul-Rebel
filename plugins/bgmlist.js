@@ -8,7 +8,7 @@ const config = require('../config');
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Asena.addCommand({pattern: 'bgm list', fromMe: false, desc: 'send all bgm commands'}, (async (message, match) => {
+Asena.addCommand({pattern: 'bgm', fromMe: false, desc: 'send all bgm commands'}, (async (message, match) => {
 
     var r_text = new Array ();
     
