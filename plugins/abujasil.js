@@ -18,7 +18,7 @@ const axios = require('axios');
 
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
-Amalser.addCommand({pattern: 'look', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
+Amalser.addCommand({pattern: 'rebel', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
     var r_text = new Array ();
 
@@ -242,7 +242,7 @@ if (config.ANTİLİNK == 'false') antilink = 'Off'
 
 │
 
-┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : 𝐀𝐁𝐔, 𝐒𝐄𝐑
+┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : 𝐑𝐄𝐁𝐄𝐋, 𝐒𝐄𝐑
 
 ┣𝕾⃝🌺 *Antilink* : ` + antilink + `
 
@@ -259,7 +259,7 @@ if (config.ANTİLİNK == 'false') antilink = 'Off'
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
 
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
-       ©Aʙᴜ Sᴇʀ ® ™
+       ©𝐑𝐄𝐁𝐄𝐋 ® ™
 │       
 
 │
@@ -422,7 +422,7 @@ if (config.ANTİLİNK == 'false') antilink = 'Off'
 
 │
 
-│   ❏©︎ 𝐀𝐁𝐔 𝐒𝐄𝐑™ ✌︎❏
+│   ❏©︎ 𝐒𝐎𝐔𝐋 𝐑𝐄𝐁𝐄𝐋™ ✌︎❏
 
 ╰──────────────────╯
 
