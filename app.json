@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "Password is ABU type it in here. Password ABU എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum",
+            "description": "Password is REBEL type it in here. Password REBEL എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum",
             "required": true
         },
         "LANGUAGE": {
@@ -53,7 +53,7 @@
         "ALL_IMG": {
             "description": "Set the logo",
             "required": true,
-            "value": "https://i.imgur.com/t9pFDc7.jpg"
+            "value": "https://i.imgur.com/uucLoM6.jpg"
         },
         "DIALOGUE": {
             "description": "set the Dialouge",
@@ -73,7 +73,7 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://i.imgur.com/t9pFDc7.jpg"
+            "value": "https://i.imgur.com/uucLoM6.jpg"
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
@@ -106,7 +106,7 @@
             "value": "Soul-Rebel/🎗️/💝/✨/📝"
         },
         "BGM_DURATION": {
-            "description": "FUNY BGM DURATION  codded by SAIDALI",
+            "description": "FUNY BGM DURATION  codded by ABU",
             "required": false,
             "value": "39999600"
         },
@@ -187,7 +187,7 @@
         "NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "917025994178"
+            "value": "918547062392"
         },
         "DEPLOYER": {
             "description": "enter your name here",
